@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Honours Bachelor of Computer Science - Mobile Computing
+    - title: Honours Bachelor of Computer Science
       institution: Sheridan College
       year: 2015 - 2019
 
@@ -24,7 +24,7 @@
       description:
         - Developed continuous integration scripts using GitHub Actions to automate database schema migrations, execution of tests with Docker Compose, deployments to Google Cloud Run and provisioning of COS VM’s for MySQL and Redis.
         - Led deployment of Spring Boot applications from DIT through to Production, ensuring a remarkable 99.99% uptime and delivering seamless experiences to clients and stakeholders.
-        - Leveraged Robot Framework’s Selenium library to create a low-level RPA, automating hundreds of mundane financial advisor operations and freeing up valuable time for strategic initiatives.
+        - Leveraged Robot Framework’s Selenium library to create an RPA, automating hundreds of mundane financial advisor operations and freeing up valuable time for strategic initiatives.
         - Implemented automation tools and frameworks (CI/CD pipelines), resulting in a notable 40% reduction in project deployment time, significantly enhancing efficiency and accelerating time-to-market.
         - Engineered solutions to enhance scalability and performance, resulting in increased server capacity, reduced latency, and improved response times, ensuring systems can handle growing demands effortlessly.
 
