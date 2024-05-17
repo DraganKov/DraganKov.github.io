@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Honours Bachelor of Computer Science - Mobile Computing
+    - title: Honours Bachelor of Computer Science (Mobile Computing)
       institution: Sheridan College
       year: 2015 - 2019
 
@@ -35,6 +35,4 @@
        - Developed automation scripts for both scripted and declarative Jenkins pipeline that increased automation performance by 33% and reduced configuration complexity by 83%. 
        - Orchestrated comprehensive unit, integration, acceptance, and smoke testing procedures across diverse platforms including iOS, Android, and Web applications, ensuring the delivery of high-quality software products to end-users.
        - Monitored system logs, identified, and resolved system outages, resulting in a reduction in downtime by 25% and increased server performance.
-       - Analyzed data leveraging Pandas to extract and validate thousands of B2B & B2C customer payment records, uncovering significant billing discrepancies, resulting in over $100K in recoverable revenue. 
-
-
+       - Analyzed data leveraging Pandas to extract and validate thousands of B2B & B2C customer payment records, uncovering significant billing discrepancies, resulting in over $100K in recoverable revenue.
